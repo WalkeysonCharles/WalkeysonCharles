@@ -8,7 +8,7 @@ I am a cyber security student at Leeds Beckett University with a passion for bui
 - Concepts: algorithms, data structures, testing, version control
 
 ## Projects
-  -None- 
+  
 
 ## Education
 - B.S. Pending Cyber security , Leeds Beckett University, 2028
