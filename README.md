@@ -47,7 +47,13 @@ A program that asks the user to enter the length and width of a square and calcu
 ### Fraction to Decimal Converter
 A Java program that reads a numerator and denominator from the user and converts the fraction into its decimal equivalent.
 
-
+## Currently Learning
+- Fundamentals of Database
+- Computer Communication
+- Object Oriented Programming
+- Ethical Hacking
+- Fundamentals od Digital Forensics
+- Version Control using Git and GitHub
 
 
 ## Education Section
