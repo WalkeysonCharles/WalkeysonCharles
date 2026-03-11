@@ -3,7 +3,10 @@
 I am a cyber security student at Leeds Beckett University with a passion for building practical software solutions. I enjoy exploring data, automating tasks, and delivering clean, well-documented code.
 
 ## Skills
-- Languages: Python, JavaScript, C++
+**Languages**
+- Python
+- JavaScript
+- C++
 ## Tools
 Git
 GitHub
